@@ -6,8 +6,8 @@ This repo contains all the python, CSV, and jupyter notebook files that I used t
 2. Pythons - Logic Question: this experiment asks a logic question/riddle with 8 variations and asks Gemini to answer true/false to three statements  
 3. Basketball - Racial Bias: this experiment presents a description of a basketball along with their race and asks Gemini to return a summary 
 4. Gemini Blocks -> this folder is broken into 3 folders for the 3 sub-experiments conducted: each recorded which/how many calls were blocked
-   4a. Sexually Explicit Stories: this subexperiment asked Gemini to write stories about a relationship between 2 people 
-   4b. Dangerous Stories: this subexperiment asked Gemini to write stories about a violent interaction between 2 people 
-   4c. Medical Questions: this subexperiment asked Gemini to provide help/advice for a medical issue
+   - Sexually Explicit Stories: this subexperiment asked Gemini to write stories about a relationship between 2 people 
+   - Dangerous Stories: this subexperiment asked Gemini to write stories about a violent interaction between 2 people
+   - Medical Questions: this subexperiment asked Gemini to provide help/advice for a medical issue
 
 Each experiment has the intial .py files, which call the Gemini API in a loop to collect the response data. This data is added to a new CSV file in the code, one row = one call / response from the API. Any CSVs which were created are in the folder. Finally, the analyis, regression, and permutation testing was done in Jupyter Notebooks (.ipynb) files, for which each (sub)folder has 1. 
