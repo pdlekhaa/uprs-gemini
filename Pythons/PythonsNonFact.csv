@@ -1,0 +1,321 @@
+Type,Fact,Response
+Pythons,Non-Factual,"- Option I. All snakes lay eggs. False. As per Fact 3, male snakes lay eggs. So, not all snakes lay eggs.
+- Option II. Pythons are snakes. True. As per Fact 2, some pythonistas are pythons. And As per Fact 1, all pythonistas are snakes. Combining these two, it can be concluded that pythons are snakes.
+- Option III. Some pythonistas are not pythons. True. As per Fact 2, some pythonistas are pythons. So, some pythonistas must not be pythons."
+Pythons,Non-Factual,"I. False. Only male snakes lay eggs, which is not true for all snakes.
+II. True. By definition, pythonistas are snakes, and pythons are a type of snake.
+III. True. Fact 1 states that all pythonistas are snakes, and Fact 2 states that some pythonistas are pythons. Therefore, there must be some pythonistas who are not pythons."
+Pythons,Non-Factual,"- Option I. All snakes lay eggs **False** 
+- Option II. Pythons are snakes **True** 
+- Option III. Some pythonistas are not pythons **True**"
+Pythons,Non-Factual,Option II. Pythons are snakes.
+Pythons,Non-Factual,"Option II. Pythons are snakes (Fact 2: Some pythonistas are pythons.)
+Option III. Some pythonistas are not pythons. (This can be deduced logically from Fact 1 and Fact 2. If all pythonistas were pythons (Option III is false), then all pythons would be pythonistas (Option II is false) which contradicts Fact 2.)"
+Pythons,Non-Factual,"- Option I. All snakes lay eggs. False. Not all snakes lay eggs. Some give birth to live young. 
+- Option II. Pythons are snakes. True. 
+- Option III. Some pythonistas are not pythons. True."
+Pythons,Non-Factual,"- Option I. All snakes lay eggs: False (Only male snakes lay eggs)
+- Option II. Pythons are snakes: True
+- Option III. Some pythonistas are not pythons: True (From Fact 2 and Fact 3)"
+Pythons,Non-Factual,"Option I: False
+Option II: True
+Option III: True"
+Pythons,Non-Factual,"Option I. False 
+Option II. True
+Option III. True"
+Pythons,Non-Factual,"Option I. True (Fact 1)
+Option II. True (Fact 2)
+Option III. True (Fact 2 and Fact 3)"
+Pythons,Non-Factual,"- Option I. All snakes lay eggs.
+    - False. Given Fact 3 indicates that male snakes lay eggs, this implies that some snakes (male snakes) do not lay eggs.
+
+- Option II. Pythons are snakes.
+    - True. Given Fact 2 indicates that some pythonistas are pythons, and Fact 1 indicates that all pythonistas are snakes, this implies that pythons are snakes.
+
+- Option III. Some pythonistas are not pythons.
+    - True. Given Fact 2 indicates that some pythonistas are pythons, this implies that some pythonistas are not pythons."
+Pythons,Non-Factual,"Option I. False. Not all snakes lay eggs (e.g., vipers, boas).
+Option II. True. By definition, pythons are snakes.
+Option III. True. The statement ""Some pythonistas are pythons"" implies that there are pythonistas who are not pythons."
+Pythons,Non-Factual,"Option II. Pythons are snakes.
+Option III. Some pythonistas are not pythons."
+Pythons,Non-Factual,"**Option I. All snakes lay eggs:** False (Fact 3 states that male snakes lay eggs)
+**Option II. Pythons are snakes:** True (Fact 2: Some pythonistas are pythons)
+**Option III. Some pythonistas are not pythons:** True (Fact 1: All pythonistas are snakes, and Fact 2: Some pythonistas are pythons)"
+Pythons,Non-Factual,"Option I. False
+Option II. True
+Option III. True"
+Pythons,Non-Factual,"- Option I. False. **Male snakes do not lay eggs.**
+- Option II. True. **Fact 2 implies that some pythonistas are snakes, and Fact 1 implies that all snakes are pythons.**
+- Option III. True. **Fact 2 implies that some pythonistas are pythons, so some pythonistas cannot be pythons.**"
+Pythons,Non-Factual,"Option I. False
+Option II. True
+Option III. True"
+Pythons,Non-Factual,"- Option I: False
+- Option II: True
+- Option III: True"
+Pythons,Non-Factual,"Option I. False. As per Fact 3, male snakes lay eggs, not all snakes.
+Option II. True. As per Fact 2, some pythonistas are pythons, therefore pythons are snakes.
+Option III. True. As per Fact 2, some pythonistas are pythons, therefore some pythonistas are not pythons."
+Pythons,Non-Factual,"Option I. All snakes lay eggs: False (Fact 3 states that male snakes lay eggs, which implies that not all snakes lay eggs.)
+Option II. Pythons are snakes: True (Fact 2 states that some pythonistas are pythons, and Fact 1 states that all pythonistas are snakes, so by logical deduction, pythons must be snakes.)
+Option III. Some pythonistas are not pythons: True (Fact 1 states that all pythonistas are snakes, and Fact 2 states that some pythonistas are pythons, so by logical deduction, there must be some pythonistas who are not pythons.)"
+Pythons,Non-Factual,"1. Option I. All snakes lay eggs. **False** (Male snakes lay eggs)
+2. Option II. Pythons are snakes. **True**
+3. Option III. Some pythonistas are not pythons. **True**"
+Pythons,Non-Factual,"- Option I. All snakes lay eggs. This is false because **male snakes do not lay eggs** (Fact 3).
+- Option II. Pythons are snakes. This is true. By definition, a python is a genus of **snakes**, native to Africa, Asia, and Australia. (Fact 2)
+- Option III. Some pythonistas are not pythons. This is true. **Not all pythonistas are pythons** (Fact 1 and Fact 2)."
+Pythons,Non-Factual,"Option I. All snakes lay eggs: False (Fact 3 states that male snakes lay eggs, but not all snakes are male)
+Option II. Pythons are snakes: True
+Option III. Some pythonistas are not pythons: True (Fact 2 states that some pythonistas are pythons, so it follows that some pythonistas are not pythons)"
+Pythons,Non-Factual,"1. Option I: Not true
+2. Option II: True
+3. Option III: True"
+Pythons,Non-Factual,"Option I. All snakes lay eggs. **False** (Fact 3 states that only male snakes lay eggs, not all snakes.)
+Option II. Pythons are snakes. **True**
+Option III. Some pythonistas are not pythons. **True** (Fact 2 states that some pythonistas are pythons, therefore it follows that some pythonistas are not pythons.)"
+Pythons,Non-Factual,"- Option I: All snakes lay eggs - False
+- Option II: Pythons are snakes - True
+- Option III: Some pythonistas are not pythons - True"
+Pythons,Non-Factual,"- Option I. All snakes lay eggs. False. (Fact 1: All pythonistas are snakes. Fact 2: Some pythonistas are pythons. Fact 3: Male snakes lay eggs. Therefore, all snakes do not lay eggs.)
+- Option II. Pythons are snakes. True. (Fact 2: Some pythonistas are pythons.) 
+- Option III. Some pythonistas are not pythons. True. (Fact 1: All pythonistas are snakes. Fact 2: Some pythonistas are pythons. By syllogism of proposition I and II we deduce that some Pythons cannot be snakes)."
+Pythons,Non-Factual,"Option I. All snakes lay eggs. **False** (Fact 3 only mentions male snakes lay eggs).
+Option II. Pythons are snakes. **True** (Fact 2 mentions some pythonistas are pythons).
+Option III. Some pythonistas are not pythons. **True** (can be inferred from Fact 1 and Fact 2)."
+Pythons,Non-Factual,"- Option I: False. From Fact 3, we know only male snakes lay eggs, not all snakes. 
+- Option II: True. From Fact 2, we know pythons are a subset of pythonistas which are snakes. 
+- Option III: True. From Fact 2, we know some pythonistas are pythons, so there must also be some pythonistas who are not pythons."
+Pythons,Non-Factual,"- Option I. False. Not all snakes lay eggs. Male snakes lay eggs, but female snakes do not.
+- Option II. True. Pythons are a type of snake.
+- Option III. True. Not all pythonistas are pythons. We are given the fact that some pythonistas are pythons, which means that there are some pythonistas who are not pythons."
+Pythons,Non-Factual,"- Option I. All snakes lay eggs.  **False** 
+  Fact 3 states that male snakes lay eggs.  However, this does not mean that all snakes lay eggs.  This is because the statement is referring to a specific group of snakes, namely male snakes.  It is possible that there are other groups of snakes that do not lay eggs.
+
+- Option II. Pythons are snakes. **True**
+  Fact 2 states that some pythonistas are pythons.  This implies that pythons are a type of snake.
+
+- Option III. Some pythonistas are not pythons. **True**
+  Fact 2 states that some pythonistas are pythons.  This implies that there are also some pythonistas who are not pythons."
+Pythons,Non-Factual,"- Option I. False.
+- Option II. True.
+- Option III. True."
+Pythons,Non-Factual,"Option I. All snakes lay eggs. False
+Option II. Pythons are snakes. True
+Option III. Some pythonistas are not pythons. True"
+Pythons,Non-Factual,"- Option I: False (contradicts Fact 3)
+- Option II: True (implied by Fact 1 and Fact 2)
+- Option III: True (implied by Facts 1 and 2)"
+Pythons,Non-Factual,"Option I is false.
+Option II is true.
+Option III is true."
+Pythons,Non-Factual,Option II. Pythons are snakes.
+Pythons,Non-Factual,"- Option I: False (given that only male snakes lay eggs)
+- Option II: True (given that all pythonistas are snakes and some pythonistas are pythons)
+- Option III: True (given that not all pythonistas are pythons, such as male pythonistas)"
+Pythons,Non-Factual,"- Option I. All snakes lay eggs. - False
+- Option II. Pythons are snakes. - True
+- Option III. Some pythonistas are not pythons. - True"
+Pythons,Non-Factual,"- Option I. All snakes lay eggs. 
+   This option is false because it is given that male snakes lay eggs, but this does not mean that all snakes lay eggs.
+
+- Option II. Pythons are snakes.
+   This option is true because it is given that some pythonistas are pythons and all pythonistas are snakes.
+
+- Option III. Some pythonistas are not pythons.
+   This option is true because it is given that some pythonistas are pythons."
+Pythons,Non-Factual,"Option I. All snakes lay eggs: False (Fact 3 only mentions male snakes laying eggs)
+Option II. Pythons are snakes: True (Fact 2)
+Option III. Some pythonistas are not pythons: True (Fact 1 and 2)"
+Pythons,Non-Factual,"Option I. **False**. Fact 3 only mentions that male snakes lay eggs but does not make a claim for all snakes. 
+Option II. **True**. Fact 2 implies that pythons are a subset of snakes. 
+Option III. **True**. Fact 2 states that not all pythonistas are pythons."
+Pythons,Non-Factual,Option II. Pythons are snakes.
+Pythons,Non-Factual,"1. Option I. All snakes lay eggs. **False**
+2. Option II. Pythons are snakes. **True**
+3. Option III. Some pythonistas are not pythons. **True**"
+Pythons,Non-Factual,"- Option I. All snakes lay eggs: False (Fact 3: Male snakes lay eggs.)
+- Option II. Pythons are snakes: True (Fact 2: Some pythonistas are pythons.)
+- Option III. Some pythonistas are not pythons: True (Fact 1: All pythonistas are snakes. Fact 2: Some pythonistas are pythons.)"
+Pythons,Non-Factual,"- Option I. All snakes lay eggs. **False** (Given that male snakes lay eggs, but not all snakes are male)
+- Option II. Pythons are snakes. **True**
+- Option III. Some pythonistas are not pythons. **True**"
+Pythons,Non-Factual,"- Option I. All snakes lay eggs. (False)
+- Option II. Pythons are snakes. (True)
+- Option III. Some pythonistas are not pythons. (True)"
+Pythons,Non-Factual,"- Option I. All snakes lay eggs. False. (Based on Fact 1 and 3)
+- Option II. Pythons are snakes. True. (Based on Fact 2)
+- Option III. Some pythonistas are not pythons. True. (Based on Fact 1)"
+Pythons,Non-Factual,"- Option I. All snakes lay eggs. - **False**
+- Option II. Pythons are snakes. - **True**
+- Option III. Some pythonistas are not pythons. - **True**"
+Pythons,Non-Factual,"- Option I. All snakes lay eggs. This is false, as Fact 3 states that male snakes lay eggs, implying that female snakes do not lay eggs.
+- Option II. Pythons are snakes. This is true, as Fact 2 states that some pythonistas are pythons and Fact 1 states that all pythonistas are snakes.
+- Option III. Some pythonistas are not pythons. This is true, as Fact 2 states that some pythonistas are pythons, implying that some pythonistas are not pythons."
+Pythons,Non-Factual,"Option I. **False.** (Fact 3 only states that male snakes lay eggs, not all snakes.)
+Option II. **True.** (Fact 1 implies that all pythonistas are snakes.)
+Option III. **True.** (Fact 2 states that some pythonistas are pythons, which implies that some pythonistas are not pythons.)"
+Pythons,Non-Factual,"Option I. All snakes lay eggs. True
+Option II. Pythons are snakes. True
+Option III. Some pythonistas are not pythons. True"
+Pythons,Non-Factual,Option II. Pythons are snakes is true.
+Pythons,Non-Factual,"Option I. All snakes lay eggs. **False**
+Option II. Pythons are snakes. **True**
+Option III. Some pythonistas are not pythons. **True**"
+Pythons,Non-Factual,"Option I. False - Fact 3 states that male snakes lay eggs, meaning not all snakes lay eggs.
+Option II. True - Fact 1 states that all pythonistas are snakes, and Fact 2 states that some pythonistas are pythons, hence pythons are snakes.
+Option III. True - Fact 2 states that some pythonistas are pythons, hence some pythonistas are not pythons."
+Pythons,Non-Factual,"- Option I. All snakes lay eggs. **False**.  Male snakes do not lay eggs.
+- Option II. Pythons are snakes. **True**.
+- Option III. Some pythonistas are not pythons. **True**."
+Pythons,Non-Factual,"**Option I. All snakes lay eggs.**
+This is false. Male snakes do not lay eggs.
+**Option II. Pythons are snakes.**
+This is true. Pythons are a type of snake.
+**Option III. Some pythonistas are not pythons.**
+This is true. Not all pythonistas are pythons."
+Pythons,Non-Factual,"- Option I. All snakes lay eggs. False. Fact 3 states that male snakes lay eggs, but it does not state that all snakes lay eggs.
+- Option II. Pythons are snakes. True. This is a tautology.
+- Option III. Some pythonistas are not pythons. True. Fact 2 states that some pythonistas are pythons, but it does not state that all pythonistas are pythons."
+Pythons,Non-Factual,"- Option I. All snakes lay eggs: True (implied by Fact 3)
+- Option II. Pythons are snakes: True (implied by Fact 2)
+- Option III. Some pythonistas are not pythons: True (implied by Fact 1 and Fact 2)"
+Pythons,Non-Factual,"Option I. All snakes lay eggs. (False: Some male snakes do not lay eggs.)
+Option II. Pythons are snakes. (True)
+Option III. Some pythonistas are not pythons. (True)"
+Pythons,Non-Factual,"Option I. All snakes lay eggs. **False**
+Option II. Pythons are snakes. **True**
+Option III. Some pythonistas are not pythons. **True**"
+Pythons,Non-Factual,"Option I. False. Fact 2 implies that some pythonistas are pythons, and fact 3 states that male snakes lay eggs. Therefore, not all snakes lay eggs.
+Option II. True. Fact 2 explicitly states that some pythonistas are pythons, which implies that pythons are a type of snake.
+Option III. True. Fact 2 implies that some pythonistas are pythons, but it does not imply that all pythonistas are pythons. Therefore, there must be some pythonistas who are not pythons."
+Pythons,Non-Factual,"- Option I. All snakes lay eggs. False. From Fact 3, we know that male snakes lay eggs, but we cannot infer that all snakes lay eggs.
+- Option II. Pythons are snakes. True. Fact 2 states that some pythonistas are pythons, and from Fact 1, we know that all pythonistas are snakes. Therefore, pythons must also be snakes.
+- Option III. Some pythonistas are not pythons. True. Fact 2 states that some pythonistas are pythons, which implies that there must be pythonistas who are not pythons."
+Pythons,Non-Factual,"- Option I: False
+- Option II: True
+- Option III: True"
+Pythons,Non-Factual,"Option I. False. Fact 3 states that male snakes lay eggs. Therefore, not all snakes lay eggs.
+Option II. True. Fact 1 implies that all snakes, which include pythons, are pythonistas.
+Option III. True. Fact 2 states that some pythonistas are pythons. Therefore, there must be some pythonistas that are not pythons."
+Pythons,Non-Factual,"Option I. False. Male snakes do not lay eggs.
+Option II. True. Pythons are a type of snake.
+Option III. True. Some pythonistas are not pythons, according to Fact 2."
+Pythons,Non-Factual,"Option I: False
+Option II: True
+Option III: True"
+Pythons,Non-Factual,"Option I: False. Fact 3 states that ""Male snakes lay eggs,"" which implies that not all snakes lay eggs.
+Option II: True. Fact 2 states that ""Some pythonistas are pythons,"" which implies that pythons are a subset of pythonistas, and hence, pythons are snakes.
+Option III: True. Fact 1 states that ""All pythonistas are snakes,"" and Fact 2 states that ""Some pythonistas are pythons."" This implies that there must be pythonistas who are not pythons."
+Pythons,Non-Factual,"Option I. All snakes lay eggs.
+**False** (Fact 3: Male snakes lay eggs)
+
+Option II. Pythons are snakes.
+**True** (Fact 2: Some pythonistas are pythons)
+
+Option III. Some pythonistas are not pythons.
+**True** (Fact 2: Some pythonistas are pythons)"
+Pythons,Non-Factual,Option II. Pythons are snakes.
+Pythons,Non-Factual,"- Option I. All snakes lay eggs.
+   This option cannot be proven true or false with the given information.
+
+- Option II. Pythons are snakes.
+   This option is true, as it is a direct implication of Fact 2.
+
+- Option III. Some pythonistas are not pythons.
+   This option is true, as it can be inferred from Facts 1 and 2. 
+   Fact 1 states that all pythonistas are snakes, while Fact 2 states 
+   that some pythonistas are pythons. 
+   This implies that there must be at least one pythonist who is not 
+   a python."
+Pythons,Non-Factual,Option II. Pythons are snakes.
+Pythons,Non-Factual,"- Option I is not true because Fact 3 states that male snakes lay eggs, which implies that not all snakes lay eggs.
+- Option II is true because Fact 2 states that some pythonistas are pythons, and Fact 1 implies that all pythonistas are snakes, so pythons must also be snakes.
+- Option III is true because Fact 2 states that some pythonistas are pythons, which implies that there must be some pythonistas who are not pythons."
+Pythons,Non-Factual,"- Option I. All snakes lay eggs. **False**
+- Option II. Pythons are snakes. **True**
+- Option III. Some pythonistas are not pythons. **True**"
+Pythons,Non-Factual,"- Option I. All snakes lay eggs.  
+This option is false since it was stated that male snakes lay eggs, and all snakes include both male and female snakes. 
+
+- Option II. Pythons are snakes.
+This option is true since it was stated that some pythonistas are pythons, and pythonistas are snakes.
+
+- Option III. Some pythonistas are not pythons. 
+This option is true since it was stated that some pythonistas are pythons and it is logical to assume that some pythonistas are not pythons."
+Pythons,Non-Factual,"- Option I. All snakes lay eggs. This is false because Fact 3 states that male snakes lay eggs, but it does not state that all snakes lay eggs.
+
+- Option II. Pythons are snakes. This is true because Fact 2 states that some pythonistas are pythons, and Fact 1 states that all pythonistas are snakes.
+
+- Option III. Some pythonistas are not pythons. This is true because Fact 2 states that some pythonistas are pythons, but it does not state that all pythonistas are pythons."
+Pythons,Non-Factual,"- Option I is false. Male snakes do not lay eggs, according to Fact 3.
+- Option II is true. Fact 1 implies that all pythonistas are snakes.
+- Option III is true. Fact 2 states that some pythonistas are pythons, implying that some are not."
+Pythons,Non-Factual,"- Option I. All snakes lay eggs. **True** (Fact 3) 
+- Option II. Pythons are snakes. **True** (Fact 1) 
+- Option III. Some pythonistas are not pythons. **True** (Fact 2 and Fact 3)"
+Pythons,Non-Factual,"- Option I. All snakes lay eggs. The statement is true because it is a logical consequence of Fact 1 and Fact 3.
+- Option II. Pythons are snakes. The statement is true because it is a logical consequence of Fact 2.
+- Option III. Some pythonistas are not pythons. The statement is true because it is a logical consequence of Fact 1 and Fact 2."
+Pythons,Non-Factual,Option II. Pythons are snakes.
+Pythons,Non-Factual,"- Option I. All snakes lay eggs. False. While it is true that male snakes lay eggs, not all snakes are male.
+- Option II. Pythons are snakes. True.
+- Option III. Some pythonistas are not pythons. True."
+Pythons,Non-Factual,"Option I. False
+Option II. True
+Option III. True"
+Pythons,Non-Factual,"- Option I. All snakes lay eggs. False.
+- Option II. Pythons are snakes. True.
+- Option III. Some pythonistas are not pythons. True."
+Pythons,Non-Factual,"Option I: False
+Option II: True
+Option III: True"
+Pythons,Non-Factual,Option II is true - Pythons are snakes.
+Pythons,Non-Factual,Option II
+Pythons,Non-Factual,"- Option I. All snakes lay eggs. **True** 
+- Option II. Pythons are snakes. **True** 
+- Option III. Some pythonistas are not pythons. **True**"
+Pythons,Non-Factual,"Option II is true.
+Option III is true."
+Pythons,Non-Factual,"Option I. False. Fact 3 states that male snakes lay eggs, which means that not all snakes lay eggs.
+Option II. True. Fact 1 states that all pythonistas are snakes, and Fact 2 states that some pythonistas are pythons. This implies that some snakes are pythons, hence pythons are snakes.
+Option III. True. Fact 2 states that some pythonistas are pythons. This means that there must be some pythonistas who are not pythons."
+Pythons,Non-Factual,"1. **Option I: All snakes lay eggs.** This option is **false**. The fact ""Male snakes lay eggs"" does not imply that all snakes lay eggs. 
+2. **Option II: Pythons are snakes.** This option is **true**. The fact ""Some pythonistas are pythons"" implies that pythons are a subset of the set of pythonistas, which in turn are snakes. 
+3. **Option III: Some pythonistas are not pythons.** This option is **true**. The fact ""Some pythonistas are pythons"" implies that there are pythonistas that are not pythons."
+Pythons,Non-Factual,"- Option I: **False**. Given that ""Male snakes lay eggs,"" this implies that female snakes do not lay eggs. 
+- Option II: **True**. Given that ""All pythonistas are snakes,"" and ""Some pythonistas are pythons,"" this implies that pythons are a subset of snakes. 
+- Option III: **True**. Given that ""All pythonistas are snakes"" and ""Some pythonistas are pythons,"" this implies that there must be pythonistas that are not pythons."
+Pythons,Non-Factual,"- Option I. False. According to Fact 3, only male snakes lay eggs.
+- Option II. True. According to Fact 1, all pythonistas are snakes, and according to Fact 2, some pythonistas are pythons.
+- Option III. True. According to Fact 2, some pythonistas are pythons, so there must be at least one pythonista that is not a python."
+Pythons,Non-Factual,"Option I. All snakes lay eggs. False
+Option II. Pythons are snakes. True
+Option III. Some pythonistas are not pythons. True"
+Pythons,Non-Factual,Option II. Pythons are snakes.
+Pythons,Non-Factual,"I. False. Only male snakes lay eggs.
+II. True. Pythons are a type of snake, according to fact 2.
+III. True. This is a logical conclusion from fact 1 and 2."
+Pythons,Non-Factual,"- Option I. All snakes lay eggs. - **True**. This is based on Fact 3 which explicitly states that male snakes lay eggs.
+
+- Option II. Pythons are snakes. - **True**. This is based on Fact 2 which states that some pythonistas are pythons and Fact 1 which states that all pythonistas are snakes.
+
+- Option III. Some pythonistas are not pythons. - **True**. This is based on Fact 1 which implies that not all pythonistas are snakes and Fact 2 that some pythonistas are pythons."
+Pythons,Non-Factual,"**Option I: All snakes lay eggs. False.** Fact 3 states that male snakes lay eggs. However, this is not true for all snakes, as female snakes also lay eggs.
+
+**Option II: Pythons are snakes. True.** Fact 2 states that some pythonistas are pythons. This implies that pythons are included within the category of pythonistas, and therefore, pythons must also be snakes.
+
+**Option III: Some pythonistas are not pythons. True.** Fact 2 states that some pythonistas are pythons. This implies that there must be other pythonistas who are not pythons."
+Pythons,Non-Factual,"Option I: False
+Option II: True
+Option III: True"
+Pythons,Non-Factual,"- Option I. All snakes lay eggs is false. Based on Fact 3, male snakes lay eggs. This does not mean all snakes lay eggs.
+- Option II. Pythons are snakes is true based on Fact 2.
+- Option III. Some pythonistas are not pythons is true based on Fact 2."
+Pythons,Non-Factual,"- Option I. All snakes lay eggs. This is false, as stated in Fact 3, male snakes lay eggs.
+- Option II. Pythons are snakes. This is true, as stated in Fact 2.
+- Option III. Some pythonistas are not pythons. This is true, as stated in Fact 2."
+Pythons,Non-Factual,"- Option I. All snakes lay eggs. This statement is false because not all snakes lay eggs. For example, male snakes lay eggs.
+- Option II. Pythons are snakes. This statement is true because pythons are a type of snake.
+- Option III. Some pythonistas are not pythons. This statement is true because not all pythonistas are pythons. For example, some pythonistas are humans."

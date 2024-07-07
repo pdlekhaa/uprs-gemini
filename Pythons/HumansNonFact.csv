@@ -1,0 +1,419 @@
+Type,Fact,Response
+Humans,Non-Factual,"**Option I. All humans study.**
+
+This option is not true because Fact 3 states that non-educated humans study, which implies that some humans do not study.
+
+**Option II. Students are humans.**
+
+This option is true because Fact 2 states that some in college are students, and Fact 1 states that all in college are humans.
+
+**Option III. Some in college are not students.**
+
+This option is true because Fact 2 states that some in college are students, which implies that there are some in college who are not students.
+
+Therefore, the correct answers are: **Option II. Students are humans.** and **Option III. Some in college are not students.**"
+Humans,Non-Factual,"Option II is true because it is a direct inference from Fact 1.
+Option III is true because it is a logical inference from Fact 2.
+Option I is false because Fact 3 only states that non-educated humans study, not all humans."
+Humans,Non-Factual,"Option I. All humans study. - False
+Option II. Students are humans. - True
+Option III. Some in college are not students. - True"
+Humans,Non-Factual,"Option II and Option III are true.
+
+* Option I. All humans study. 
+From Fact 1, we know that all in college are humans. 
+From Fact 3, we know that non-educated humans study. 
+Since all in college are humans, we can infer that all non-educated humans in college study. However, we do not know if educated humans study, so Option I is not true.
+
+* Option II. Students are humans. 
+From Fact 2, we know that some in college are students. 
+From Fact 1, we know that all in college are humans. 
+So we can infer that some in college who are students are humans. 
+Therefore, Option II is true.
+
+* Option III. Some in college are not students. 
+From Fact 1, we know that all in college are humans. 
+From Fact 2, we know that some in college are students. 
+Therefore, we can infer that some in college are not students. 
+So Option III is true."
+Humans,Non-Factual,"Option I. All humans study is false.
+Option II. Students are humans is true.
+Option III. Some in college are not students is true."
+Humans,Non-Factual,"Option I. All humans study. (False)
+Option II. Students are humans. (True)
+Option III. Some in college are not students. (True)"
+Humans,Non-Factual,"I. All humans study. (False)
+II. Students are humans. (True)
+III. Some in college are not students. (True)"
+Humans,Non-Factual,"Option I is false.
+Option II is true.
+Option III is true."
+Humans,Non-Factual,"Option I. All humans study. (False)
+Option II. Students are humans. (True)
+Option III. Some in college are not students. (True)"
+Humans,Non-Factual,"**Option I. All humans study.**
+Fact 1 states that all in college are humans. Fact 3 states that non-educated humans study. Therefore, all humans study. Option I is true.
+
+**Option II. Students are humans.**
+Fact 2 states that some in college are students. Fact 1 states that all in college are humans. Therefore, students are humans. Option II is true.
+
+**Option III. Some in college are not students.**
+Fact 2 states that some in college are students. This implies that some in college are not students. Option III is true.
+
+Therefore, all three options are true."
+Humans,Non-Factual,"Option I. All humans study. 
+
+This option cannot be true because Fact 3 states that ""non-educated humans study,"" but Fact 1 states that ""all in college are humans,"" and Fact 2 states that ""some in college are students."" So some humans in college are not non-educated, and therefore, it cannot be true that all humans study.
+
+Option II. Students are humans. 
+
+This option is true because Fact 2 states that ""some in college are students,"" and Fact 1 states that ""all in college are humans."" Therefore, it can be concluded that students are humans.
+
+Option III. Some in college are not students. 
+
+This option is true because Fact 2 states that ""some in college are students,"" which implies that there are others in college who are not students."
+Humans,Non-Factual,Option II. Students are humans.
+Humans,Non-Factual,Option II is true.
+Humans,Non-Factual,Option II. Students are humans.
+Humans,Non-Factual,Option II. Students are humans.
+Humans,Non-Factual,"Option II is true. Since all in college are humans and some in college are students, then students must be humans."
+Humans,Non-Factual,"Option I. All humans study. is false. 
+Option II. Students are humans. is true. 
+Option III. Some in college are not students. is true."
+Humans,Non-Factual,"Option I. All humans study: False
+Option II. Students are humans: True
+Option III. Some in college are not students: True"
+Humans,Non-Factual,"- **Option I. All humans study.** This option is not necessarily true. From the given facts, we know that non-educated humans study, but we do not know if all humans are non-educated. Therefore, we cannot conclude that all humans study.
+
+- **Option II. Students are humans.** This option is true. All students are humans, as stated in Fact 2.
+
+- **Option III. Some in college are not students.** This option is true. Fact 3 states that non-educated humans study. If there are non-educated humans in college, then some in college are not students."
+Humans,Non-Factual,Option II. Students are humans is true.
+Humans,Non-Factual,Option II. Students are humans.
+Humans,Non-Factual,"Option I. All humans study.  - False
+Option II. Students are humans. - True
+Option III. Some in college are not students. - True"
+Humans,Non-Factual,Option II. Students are humans.
+Humans,Non-Factual,"Option I is false, because we cannot conclude that all humans study. 
+Option II is true, because we know from Fact 1 that all in college are humans.
+Option III is true, because Fact 2 tells us that some in college are students, and therefore, some in college must not be students."
+Humans,Non-Factual,Option II: Students are humans.
+Humans,Non-Factual,"I. False
+II. True
+III. True"
+Humans,Non-Factual,"**Option II. Students are humans** is true. 
+Fact 1 states that all in college are humans, and Fact 2 states that some in college are students. Therefore, it can be concluded that students are humans.
+
+**Option I. All humans study** is false. 
+Fact 3 states that non-educated humans study, which implies that not all humans study.
+
+**Option III. Some in college are not students** is true. 
+Fact 2 states that some in college are students, which implies that there must be some in college who are not students."
+Humans,Non-Factual,"- Option I. All humans study. **False**
+- Option II. Students are humans. **True**
+- Option III. Some in college are not students. **True**"
+Humans,Non-Factual,"- Option I is false. While it is true that all college students are humans, we cannot infer from the given statements that all humans study. 
+- Option II is true. The first fact implicitly states that all humans are college students, and the second fact explicitly states that some college students are students. Therefore, we can conclude that students are humans. 
+- Option III is true. The second fact states that some in college are students. This means that there must be others in college who are not students."
+Humans,Non-Factual,"* Option I. All humans study. 
+> This option is false because it is not supported by the given facts.
+
+* Option II. Students are humans. 
+> This option is true because Fact 2 states that some in college are students, and Fact 1 states that all in college are humans.
+
+* Option III. Some in college are not students. 
+> This option is false because it is not explicitly stated in the given facts."
+Humans,Non-Factual,"Option I. All humans study. (False)
+Option II. Students are humans. (True)
+Option III. Some in college are not students. (True)"
+Humans,Non-Factual,"Option I. All humans study is false. 
+Option II. Students are humans is true. 
+Option III. Some in college are not students is true."
+Humans,Non-Factual,"**Option II. Students are humans** is true.
+**Option III. Some in college are not students** is true. 
+
+Premise 1 tells us that all in college are humans.
+Premise 2 tells us that some in college are students.
+Premise 3 tells us that non-educated humans study.
+
+**Option I. All humans study** is false because it is not supported by the premises."
+Humans,Non-Factual,"- Option I: All humans study. This option is not true because it cannot be inferred from the given facts. Fact 3 only mentions that non-educated humans study.
+
+- Option II: Students are humans. This option is true because it is a restatement of Fact 2.
+
+- Option III: Some in college are not students. This option is true because it can be inferred from Fact 2. Since only some in college are students, it means that some in college are not students.
+
+Therefore, only Options II and III are true."
+Humans,Non-Factual,"- Option I. All humans study. (False. Fact 3 states that non-educated humans study, but Option I states that all humans study.) 
+- Option II. Students are humans. (True. Fact 1 states that all in college are humans, and Fact 2 states that some in college are students.)
+- Option III. Some in college are not students. (True. Fact 2 states that some in college are students, so it is logical that some in college are not students.)"
+Humans,Non-Factual,"- Option I. All humans study. (False)
+- Option II. Students are humans. (True)
+- Option III. Some in college are not students. (True)"
+Humans,Non-Factual,"Option I. All humans study. - False (Fact 3 states that non-educated humans study, but this does not mean all humans study).
+Option II. Students are humans. - True (Fact 1 states that all in college are humans, and Fact 2 states that some in college are students).
+Option III. Some in college are not students. - True (Fact 2 states that some in college are students, so by implication, some in college must not be students)."
+Humans,Non-Factual,"Option I. All humans study. - False
+Option II. Students are humans. - True
+Option III. Some in college are not students. - True"
+Humans,Non-Factual,Option II. Students are humans.
+Humans,Non-Factual,Option II. Students are humans.
+Humans,Non-Factual,"From the given facts, we can conclude that:
+
+1. All in college are humans.
+2. Some in college are students.
+3. Non-educated humans study.
+
+**Option I. All humans study.**
+
+This option is **incorrect**. Fact 3 states that non-educated humans study, but it does not say that all humans study.
+
+**Option II. Students are humans.**
+
+This option is **correct**. Fact 1 states that all in college are humans, and Fact 2 states that some in college are students. Therefore, students are humans.
+
+**Option III. Some in college are not students.**
+
+This option is **correct**. Fact 2 states that some in college are students. Therefore, there must be some in college who are not students.
+
+Therefore, the true options are **II. Students are humans** and **III. Some in college are not students**."
+Humans,Non-Factual,Option II. Students are humans.
+Humans,Non-Factual,Option II. Students are humans is true.
+Humans,Non-Factual,"Option I. All humans study. False. The first statement says that all in college are humans, but the third statement says that non-educated humans study. So, not all humans study. 
+
+Option II. Students are humans. True. The second statement says that some in college are students, and the first statement says that all in college are humans. So, students are humans. 
+
+Option III. Some in college are not students. True. The second statement says that some in college are students, so it is possible that some in college are not students."
+Humans,Non-Factual,"Option I is false. Fact 3 states that non-educated humans study. Since all in college are humans (Fact 1), if Option I were true, it would mean that all in college study, which contradicts Fact 2 that some in college are students.
+
+Option II is true. Fact 1 states that all in college are humans. Fact 2 states that some in college are students. Therefore, students must be humans.
+
+Option III is true. Fact 2 states that some in college are students. This implies that there must be some in college who are not students."
+Humans,Non-Factual,Option II. Students are humans.
+Humans,Non-Factual,"Option I. All humans study. 
+Option II. Students are humans. 
+Option III. Some in college are not students."
+Humans,Non-Factual,"Option I: False
+Option II: True
+Option III: True"
+Humans,Non-Factual,"- Option I. All humans study.
+- Option II. Students are humans. 
+- Option III. Some in college are not students."
+Humans,Non-Factual,"Option I. All humans study. **False**
+Option II. Students are humans. **True**
+Option III. Some in college are not students. **True**"
+Humans,Non-Factual,"- Option I. All humans study. (False) - This option cannot be inferred from the given facts.
+- Option II. Students are humans. (True) - This option can be inferred from Fact 1 and Fact 2.
+- Option III. Some in college are not students. (True) - This option can be inferred from Fact 2."
+Humans,Non-Factual,"Option I. All humans study: False, as per Fact 3, only non-educated humans study.
+Option II. Students are humans: True, as per Fact 2, some in college are students, and as per Fact 1, all in college are humans, hence students are humans.
+Option III. Some in college are not students: True, as per Fact 2, some in college are students, hence it is implied that some in college are not students."
+Humans,Non-Factual,"Option I. All humans study is False. 
+Option II. Students are humans is True.
+Option III. Some in college are not students is True."
+Humans,Non-Factual,"I. False
+II. True
+III. True"
+Humans,Non-Factual,Option II. Students are humans.
+Humans,Non-Factual,"I. All humans do not study. This option is not true because it contradicts Fact 3, which states that only non-educated humans study.
+
+II. Students are humans. This option is true because it is a logical inference from Fact 2, which states that some in college are students, and Fact 1, which states that all in college are humans.
+
+III. Some in college are not students. This option is true because it is a logical inference from Fact 2, which states that some in college are students, and the fact that all in college are not students (since some in college are faculty, staff, or visitors).
+
+Therefore, the correct options are: II. Students are humans, and III. Some in college are not students."
+Humans,Non-Factual,"Option I. All humans study: False
+Option II. Students are humans: True
+Option III. Some in college are not students: True"
+Humans,Non-Factual,Option II. Students are humans.
+Humans,Non-Factual,"From the given facts:
+- Fact 1: All in college are humans.
+- Fact 2: Some in college are students.
+- Fact 3: Non-educated humans study.
+
+**Option I. All humans study.**
+This cannot be derived from the given facts because there is no information about whether or not all humans study.
+
+**Option II. Students are humans.**
+This can be derived from Fact 1, which states that all in college are humans, and Fact 2, which states that some in college are students. Therefore, some students are humans, and since all humans are humans, it follows that all students are humans.
+
+**Option III. Some in college are not students.**
+This can be derived from Fact 2, which states that some in college are students. Therefore, it follows that some in college are not students.
+
+Therefore, the only true option is **II. Students are humans.**"
+Humans,Non-Factual,Option II. Students are humans
+Humans,Non-Factual,"Option I. False. Not all humans are in college, and not all humans study.
+Option II. True. By definition, students are humans.
+Option III. True. From Fact 1, we know that all in college are humans. From Fact 2, we know that some in college are students. Therefore, it follows that some in college are not students."
+Humans,Non-Factual,Option II: Students are humans.
+Humans,Non-Factual,Option II. Students are humans.
+Humans,Non-Factual,"Option I. All humans study. (False)
+Option II. Students are humans. (True)
+Option III. Some in college are not students. (True)"
+Humans,Non-Factual,Option II. Students are humans.
+Humans,Non-Factual,"Option I. All humans study. - False (Fact 3 states that non-educated humans study, which means not all humans study).
+Option II. Students are humans. - True (Fact 2 states that some in college are students, and Fact 1 states that all in college are humans).
+Option III. Some in college are not students. - True (Fact 2 states that some in college are students, which implies that there are also some in college who are not students)."
+Humans,Non-Factual,"Option I. All humans study.  **False**  (Fact 3: Non-educated humans study.)
+Option II. Students are humans.  **True**  (Fact 1: All in college are humans. Fact 2: Some in college are students.)
+Option III. Some in college are not students.  **True**  (Fact 2: Some in college are students.)"
+Humans,Non-Factual,"From the given facts:
+
+1. All in college are humans.
+2. Some in college are students.
+3. Non-educated humans study.
+
+Option I. All humans study.
+
+This option cannot be inferred from the given facts. Fact 3 only states that non-educated humans study, but it does not mention anything about educated humans.
+
+Option II. Students are humans.
+
+This option is true. Fact 1 states that all in college are humans, and Fact 2 states that some in college are students, so it follows that students are humans.
+
+Option III. Some in college are not students.
+
+This option is also true. Fact 2 states that some in college are students, but it does not say that all in college are students, so it is possible that some in college are not students.
+
+Therefore, the true options are II and III."
+Humans,Non-Factual,"Option I is correct. Since All humans study.
+Option II is correct since all in college are humans, and some in college are students. 
+Option III is correct because not everyone in college is a student, such as faculty or staff."
+Humans,Non-Factual,"Option I. All humans study - False
+Option II. Students are humans - True
+Option III. Some in college are not students - True"
+Humans,Non-Factual,"From the given information:
+
+1. ""All in college are humans"": This means that everyone who is in college is a human being.
+
+2. ""Some in college are students"": This means that some people who are in college are students.
+
+3. ""Non-educated humans study"": This means that some humans who are not educated study.
+
+Based on these facts, we can deduce the following:
+
+**Option I. All humans study.**
+
+This option is **false**. The statement ""Non-educated humans study"" indicates that there are some humans who do not study. Therefore, it is not true that all humans study.
+
+**Option II. Students are humans.**
+
+This option is **true**. Since all in college are humans and some in college are students, it follows that students must be humans.
+
+**Option III. Some in college are not students.**
+
+This option is **true**. The statement ""Some in college are students"" implies that there are some people in college who are not students. Therefore, it is true that some in college are not students.
+
+So, the correct options are:
+
+**Option II. Students are humans.**
+
+**Option III. Some in college are not students.**"
+Humans,Non-Factual,"Option I. All humans study. - False
+Option II. Students are humans. - True
+Option III. Some in college are not students. - True"
+Humans,Non-Factual,Option II. Students are humans.
+Humans,Non-Factual,Option II is true.
+Humans,Non-Factual,"Option II is true: Students are humans. This is because Fact 2 states that some in college are students, and Fact 1 states that all in college are humans. Therefore, we can conclude that students are humans.
+
+Option I and Option III are not true because there is no information provided in the given statements to support these options."
+Humans,Non-Factual,"**Option I. All humans study. (False)**
+
+* Fact 1 states that all in college are humans, but Fact 3 states that non-educated humans study. So, not all humans study.
+
+**Option II. Students are humans. (True)**
+
+* This is a valid conclusion based on Fact 1 and Fact 2.
+
+**Option III. Some in college are not students. (True)**
+
+* Fact 2 states that some in college are students. Therefore, the negation of this statement (some in college are not students) must also be true."
+Humans,Non-Factual,"Option I. All humans study. False. Fact 3 states that only non-educated humans study.
+Option II. Students are humans. True. Fact 2 states that some in college are students. Fact 1 states that all in college are humans.
+Option III. Some in college are not students. True. Fact 2 states that some in college are students. Therefore, some in college must be non-students."
+Humans,Non-Factual,Option II. Students are humans.
+Humans,Non-Factual,"Option I. All humans study. - False
+Option II. Students are humans. - True
+Option III. Some in college are not students. - True"
+Humans,Non-Factual,Option II. Students are humans.
+Humans,Non-Factual,"Option I. All humans study is false. (Fact 3 implies that some humans do not study)
+Option II. Students are humans is true. (Fact 1 implies that all in college are humans and Fact 2 implies that some in college are students)
+Option III. Some in college are not students is true. (Fact 2 implies that some in college are students, so it follows that some in college are not students)"
+Humans,Non-Factual,"- Option II: All in college are humans and some in college are students. So, Students are humans.
+- Option III: All in college are humans and some in college are students. So, there must be some in college who are not students."
+Humans,Non-Factual,Option II. Students are humans.
+Humans,Non-Factual,Option II. Students are humans.
+Humans,Non-Factual,Option II. Students are humans.
+Humans,Non-Factual,"Option I. All humans study - Incorrect
+Option II. Students are humans - Correct
+Option III. Some in college are not students - Correct"
+Humans,Non-Factual,"From the given factual statements, we can infer the following:
+
+- **Option I. All humans study:** This option is **false**. Fact 3 states that ""Non-educated humans study,"" which means that there are humans who do not study.
+- **Option II. Students are humans:** This option is **true**. Fact 2 states that ""Some in college are students,"" and Fact 1 states that ""All in college are humans."" Therefore, we can conclude that students are humans.
+- **Option III. Some in college are not students:** This option is **true**. Fact 2 states that ""Some in college are students,"" which implies that there are also some in college who are not students.
+
+Therefore, the correct options are:
+
+- Option II. Students are humans.
+- Option III. Some in college are not students."
+Humans,Non-Factual,Option II. Students are humans.
+Humans,Non-Factual,"Option I. All humans study. (False)
+Option II. Students are humans. (True)
+Option III. Some in college are not students. (True)"
+Humans,Non-Factual,"- Option I is False. It is given that ""Non-educated humans study"". But Option 1 claims ""All humans study"". Therefore, Option I is false.
+- Option II is True. It is given that ""All in college are humans"". It is also said that ""Some in college are students"". Therefore, students are a subset of those in college. Thus, students are also humans. Making Option II true.
+- Option III is True. It is given that ""Some in college are students"". So, the rest in college cannot be students. Hence, Option III is true."
+Humans,Non-Factual,"Option I. All humans study. False
+Option II. Students are humans. True
+Option III. Some in college are not students. True"
+Humans,Non-Factual,Option II. Students are humans.
+Humans,Non-Factual,"Option I. All humans study - False 
+Option II. Students are humans - True  
+Option III. Some in college are not students - True"
+Humans,Non-Factual,"Option II is true. 
+Fact 1 states that all in college are humans. Fact 2 states that some in college are students. So, we can infer that students are humans."
+Humans,Non-Factual,"1. **Option I. All humans study.**
+- False. Fact 3 states that non-educated humans study, but Fact 1 states that all in college are humans. So, there are some humans in college who do not study. 
+
+
+2. **Option II. Students are humans.**
+- True. Fact 2 states that some in college are students and Fact 1 states that all in college are humans. So, students in college are humans. 
+
+
+3. **Option III. Some in college are not students.**
+- True. Fact 2 states that some in college are students, which implies that there are some in college who are not students."
+Humans,Non-Factual,"Option I. All humans study. - False
+Option II. Students are humans. - True
+Option III. Some in college are not students. - True"
+Humans,Non-Factual,"Option I. All humans study - False (contradicts Fact 1)
+Option II. Students are humans - True (implied by Fact 2)
+Option III. Some in college are not students - True (implied by Fact 2)"
+Humans,Non-Factual,"**Option II. Students are humans.** is true. 
+
+**Explanation:**
+
+- Fact 1: All in college are humans.
+- Fact 2: Some in college are students.
+
+From Fact 1, we know that all in college are humans. From Fact 2, we know that some in college are students. Therefore, we can conclude that students are humans.
+
+**Option I. All humans study.** is false.
+
+**Explanation:**
+
+- Fact 3: Non-educated humans study.
+
+From Fact 3, we know that non-educated humans study. However, we cannot conclude that all humans study, because there may be educated humans who do not study.
+
+**Option III. Some in college are not students.** is true. 
+
+**Explanation:**
+
+- Fact 2: Some in college are students.
+
+From Fact 2, we know that some in college are students. However, we cannot conclude that all in college are students. Therefore, we can conclude that some in college are not students."
+Humans,Non-Factual,Option II. Students are humans.
+Humans,Non-Factual,"Option I. All humans study. (False)
+Option II. Students are humans. (True)
+Option III. Some in college are not students. (True)"
