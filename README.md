@@ -5,7 +5,7 @@ This repo contains all the python, CSV, and jupyter notebook files that I used t
 1. Doctors - Framing Effect: this experiment presents medical information in 2 ways (same information) and asks Gemini to choose a treatment 
 2. Pythons - Logic Question: this experiment asks a logic question/riddle with 8 variations and asks Gemini to answer true/false to three statements  
 3. Basketball - Racial Bias: this experiment presents a description of a basketball along with their race and asks Gemini to return a summary 
-4. Gemini Blocks -> this folder is broken into 3 folders for the 3 sub-experiments conducted: each recorded which/how many calls were blocked
+4. Blocks -> this folder is broken into 3 folders for the 3 sub-experiments conducted: each recorded which/how many calls were blocked by Gemini
    - Sexually Explicit Stories: this subexperiment asked Gemini to write stories about a relationship between 2 people 
    - Dangerous Stories: this subexperiment asked Gemini to write stories about a violent interaction between 2 people
    - Medical Questions: this subexperiment asked Gemini to provide help/advice for a medical issue
