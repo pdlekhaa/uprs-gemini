@@ -11,3 +11,5 @@ This repo contains all the python, CSV, and jupyter notebook files that I used t
    - Medical Questions: this subexperiment asked Gemini to provide help/advice for a medical issue
 
 Each experiment has the intial .py files, which call the Gemini API in a loop to collect the response data. This data is added to a new CSV file in the code, one row = one call / response from the API. Any CSVs which were created are in the folder. Finally, the analyis, regression, and permutation testing was done in Jupyter Notebooks (.ipynb) files, for which each (sub)folder has 1. 
+
+Finally, the final research paper (pdf) is included at the end. 
